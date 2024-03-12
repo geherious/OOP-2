@@ -1,0 +1,14 @@
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\bin\Debug\net8.0\task_1.exe
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\bin\Debug\net8.0\task_1.deps.json
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\bin\Debug\net8.0\task_1.runtimeconfig.json
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\bin\Debug\net8.0\task_1.dll
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\bin\Debug\net8.0\task_1.pdb
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\obj\Debug\net8.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\obj\Debug\net8.0\task_1.AssemblyInfoInputs.cache
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\obj\Debug\net8.0\task_1.AssemblyInfo.cs
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\obj\Debug\net8.0\task_1.csproj.CoreCompileInputs.cache
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\obj\Debug\net8.0\task_1.dll
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\obj\Debug\net8.0\refint\task_1.dll
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\obj\Debug\net8.0\task_1.pdb
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\obj\Debug\net8.0\task_1.genruntimeconfig.cache
+D:\study\2 course\proga_2\lab 1\Lab 1\Lab 1\obj\Debug\net8.0\ref\task_1.dll
